@@ -59,3 +59,15 @@ typings/
 
 # next.js build output
 .next
+
+.DS_Store
+/dist/
+/test/unit/coverage/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
